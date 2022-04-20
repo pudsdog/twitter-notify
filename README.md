@@ -1,3 +1,3 @@
 # twitter-notify
 
-<img src="https://img.shields.io/badge/javascript-yellow" />
+<img src="https://img.shields.io/badge/golang-blue" />
